@@ -1,0 +1,37 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Astrophysics"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Planetary Science"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geophysics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "a02b8910-06e1-e957-c119-0d24ad54159a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "The Solar System",
+  "course_description": "This is an introduction to the study of the solar system with emphasis on the latest spacecraft results. The subject covers basic principles rather than detailed mathematical and physical models. Topics include: an overview of the solar system, planetary orbits, rings, planetary formation, meteorites, asteroids, comets, planetary surfaces and cratering, planetary interiors, planetary atmospheres, and life in the solar system.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.400",
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
